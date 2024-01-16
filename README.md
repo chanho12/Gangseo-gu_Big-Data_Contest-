@@ -6,4 +6,5 @@
 분석했던 보고서와 코드 파일은 아래에 있습니다. 
 https://drive.google.com/drive/folders/1BWR9ycmGgGNTeOUrcckIVE0xtrkUvELj?usp=sharing
 
-![Uploading image.png…]()
+![image](https://github.com/chanho12/Gangseo-gu_Big-Data_Contest-/assets/104876055/7368945b-bf82-448f-a509-2a4894e87676)
+
